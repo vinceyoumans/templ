@@ -1,4 +1,4 @@
-module github.com/a-h/templ
+module github.com/vinceyoumans/templ
 
 go 1.20
 
